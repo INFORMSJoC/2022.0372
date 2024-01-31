@@ -1,9 +1,19 @@
 # Exact and Approximation Algorithms for Sparse PCA (SPCA)
 This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Exact and Approximation Algorithms for Sparse PCA](https://optimization-online.org/wp-content/uploads/2020/05/SPCA_online-1.pdf) by Yongchun Li and Weijun Xie.
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Exact and Approximation Algorithms for Sparse PCA (SPCA)](https://optimization-online.org/wp-content/uploads/2020/05/SPCA_online-1.pdf) by Yongchun Li and Weijun Xie.
 
 ## Cite
+To cite the contents of this repository, please cite the following paper:
+
+Below is the BibTex for citing the paper.
+@article{li2020exact,
+  title={Exact and approximation algorithms for sparse PCA},
+  author={Li, Yongchun and Xie, Weijun},
+  journal={arXiv preprint arXiv:2008.12438},
+  year={2020}
+}
+
 
 ## Exact algorithms
 We propose three equivalent mixed-integer convex programs to solve SPCA to optimality, denoted by MISDP (6), MISDP (15), and MILP (22) in our paper. The implementations of these exact formulations can be found in the "src" directory.
@@ -40,6 +50,6 @@ To reproduce each table in the paper, please run the file with corresponding tab
 
 # Thank you
 
-Thank you for your interest in Sparse PCA (SPCA). Please let me know if you encounter any issues using this code, or have comments or questions. Feel free to email me anytime.
+Thank you for your interest in Sparse PCA. Please let me know if you encounter any issues using this code, or have comments or questions. Feel free to email me anytime.
 
 Yongchun Li ycli@gatech.edu
