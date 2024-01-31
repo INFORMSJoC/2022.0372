@@ -6,7 +6,6 @@ The software and data in this repository are a snapshot of the software and data
 ## Cite
 To cite the contents of this repository, please cite the following paper:
 
-Below is the BibTex for citing the paper.
 @article{li2020exact,
   title={Exact and approximation algorithms for sparse PCA},
   author={Li, Yongchun and Xie, Weijun},
