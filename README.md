@@ -3,6 +3,8 @@ This archive is distributed in association with the [INFORMS Journal on Computin
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Exact and Approximation Algorithms for Sparse PCA](https://optimization-online.org/wp-content/uploads/2020/05/SPCA_online-1.pdf) by Yongchun Li and Weijun Xie.
 
+## Cite
+
 ## Exact algorithms
 We propose three equivalent mixed-integer convex programs to solve SPCA to optimality, denoted by MISDP (6), MISDP (15), and MILP (22) in our paper. The implementations of these exact formulations can be found in the "src" directory.
 
