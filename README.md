@@ -1,5 +1,5 @@
 # Exact and Approximation Algorithms for Sparse PCA (SPCA)
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](https://github.com/INFORMSJoC/2019.0000/blob/master/LICENSE).
 
 The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Exact and Approximation Algorithms for Sparse PCA](https://optimization-online.org/wp-content/uploads/2020/05/SPCA_online-1.pdf) by Yongchun Li and Weijun Xie.
 
