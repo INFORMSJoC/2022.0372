@@ -15,6 +15,8 @@ To cite the contents of this repository, please cite the following paper:
 }
 ```
 
+
+
 ## Exact algorithms
 We propose three equivalent mixed-integer convex programs to solve SPCA to optimality, denoted by MISDP (6), MISDP (15), and MILP (22) in our paper. The implementations of these exact formulations can be found in the "src" directory.
 
