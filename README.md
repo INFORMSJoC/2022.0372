@@ -28,7 +28,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 ```
 
 ## Installation and set up
-In order to run this software, you must install Gurobi 9.5.2 from {https://www.gurobi.com/downloads/gurobi-software/} and 
+In order to run this software, you must install Gurobi 9.5.2 from https://www.gurobi.com/downloads/gurobi-software/ and MOSEK 10.0.29 from https://www.mosek.com/downloads/list/10/.
 
 ## Exact algorithms
 
