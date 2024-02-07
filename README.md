@@ -27,6 +27,9 @@ Below is the BibTex for citing this snapshot of the respoitory.
 }  
 ```
 
+## Installation and set up
+In order to run this software, you must install Gurobi 9.5.2 from {https://www.gurobi.com/downloads/gurobi-software/} and 
+
 ## Exact algorithms
 
 We propose three equivalent mixed-integer convex programs to solve SPCA to optimality, denoted by MISDP (6), MISDP (15), and MILP (22) in our paper. The implementations of these exact formulations can be found in the "src" directory.
