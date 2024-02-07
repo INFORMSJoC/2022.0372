@@ -70,7 +70,7 @@ The matrices $A$ generated from UCI datasets are contained in the "data" directo
 
 ## Reproduce numerical results
 
-To reproduce each table in the paper, please run the file with corresponding table number in the "src" directory.
+To reproduce each table in the paper, please run the file with corresponding table number in the "src" directory. For example, to generate table 2, please run ```python src/table2_gen.py```.
 
 ## Support
 
